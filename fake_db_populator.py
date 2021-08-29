@@ -13,7 +13,7 @@ Session = sessionmaker(bind=engine)
 session = Session()
 
 user1 = User(
-    name='Subhadeep',
+    name='Anoop',
     email='myemail@gmail.com',
     picture='https://img.com/sdf'
 )
